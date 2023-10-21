@@ -13,7 +13,7 @@ const About = () => {
             Get to <b>know</b> me!
           </h1>
           <p>
-            Hi, my name is <b>Themba Macheke</b> and I'm from Crystal Park, South
+            Hi, my name is <b>Themba Macheke</b> and I'm from Pretoria, South
             Africa. I'm a <b>software developer</b> who has <b>2+ years</b> of
             work experience. <br />
             <br />I worked as a <b>Web developer, FrontEnd Developer, React Developer</b> at companies such as One Key HQ, XcoinCH and Rari Capital. I love to create
