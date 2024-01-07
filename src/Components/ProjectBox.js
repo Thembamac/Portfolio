@@ -7,15 +7,15 @@ const  ProjectBox = ({projectPhoto, projectName}) => {
   const desc = {
     // XcoinCHDesc:"Expert Advisors, Browser-based EA, Free Crypto / Forex Historical DATA API plugins. This plugin can help you import any historical/streaming data via API (RESTful API or WebSocket).",
     XcoinCHGithub: "https://github.com/Thembamac/XcoinCH",
-    XcoinCHWebsite: "www.xcoinch.com/",
+    XcoinCHWebsite: "https://www.xcoinch.com/",
 
     // onekeyhqnativeapplicationDesc:
     //   "Onekey is an app for the cryptocurrencies it allows one to trade.",
-    onekeyhqnativeapplicationGithub: "https://github.com/Thembamac/One-Key-HQ",
-    onekeyhqnativeapplicationWebsite: "https://onekey.so/",
+    OnekeyGithub: "https://github.com/Thembamac/One-Key-HQ",
+    OnekeyWebsite: "https://onekey.so/",
 
     // RariCapitalDesc: "Rari capital is an open decentralized exchange platform for blockchain technologies.",
-    RaricCpitalGithub: "https://github.com/Thembamac/Rari-Capital",
+    RariCapitalGithub: "https://github.com/Thembamac/Rari-Capital",
     RariCapitalWebsite: "https://app.rari.capital/",
   };
 

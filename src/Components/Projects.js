@@ -12,7 +12,7 @@ const Projects = () => {
       <div className='project'>
         {/* <ProjectBox projectPhoto={YAM} projectName="YAM" /> */}
         <ProjectBox projectPhoto={okhq} projectName="Onekey" />
-        <ProjectBox projectPhoto={rari} projectName="Rari Capital" />
+        <ProjectBox projectPhoto={rari} projectName="RariCapital" />
         <ProjectBox projectPhoto={XcoinCH} projectName="XcoinCH" />
 
       </div>
