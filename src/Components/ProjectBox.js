@@ -11,8 +11,7 @@ const  ProjectBox = ({projectPhoto, projectName}) => {
 
     // onekeyhqnativeapplicationDesc:
     //   "Onekey is an app for the cryptocurrencies it allows one to trade.",
-    onekeyhqnativeapplicationGithub:
-      "https://github.com/Thembamac/One-Key-HQ",
+    onekeyhqnativeapplicationGithub: "https://github.com/Thembamac/One-Key-HQ",
     onekeyhqnativeapplicationWebsite: "https://onekey.so/",
 
     // RariCapitalDesc: "Rari capital is an open decentralized exchange platform for blockchain technologies.",
